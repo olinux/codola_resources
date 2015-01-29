@@ -22,3 +22,6 @@ ms
 cm-super
 ec
 roboto
+mweights
+fontaxes
+xkeyval
